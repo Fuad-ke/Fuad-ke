@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fuad-ke
-- B.tech graduate in ai & data science
-- Computer vision Engineer
+- 🎓B.tech graduate in ai & data science
+- 👨🏻‍💻Computer vision Engineer
 - 👀 Interested in using ai and datascience to solve real-world problems.
-- 🌱 I’m currently learning AI,ML,deep neural networks and more..
+- 🌱 Currently exploring cloud platforms to integrate and deploy AI, machine learning, and deep learning models efficiently in production environments.
 - 📫 Reach me ->www.linkedin.com/in/fuad-saneem-k-e-196056293
 
 <!---
